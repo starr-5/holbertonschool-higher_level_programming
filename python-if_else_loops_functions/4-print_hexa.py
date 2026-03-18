@@ -7,4 +7,4 @@ for i in range (0, 99):
         remainder = i % 16
         result = digits[remainder] + result
         i = i//16
-    print(f"{a} = 0x{result}")
+    print("{} = 0x{}".format(a, result))
