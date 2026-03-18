@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-for i in range (0, 99):
-    a=i
+for i in range(0, 99):
+    a = i
     result = ''
     digits = "0123456789abcdef"
     if i == 0:
