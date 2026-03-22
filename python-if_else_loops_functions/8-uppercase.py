@@ -8,5 +8,3 @@ def uppercase(str):
         else:
             a=a+i
     return a
-str=input()
-print(uppercase(str))
